@@ -1,0 +1,9 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+img {
+    width: 450px;
+    /*border-style: solid;*/
+    border: 2px solid black;
+}
